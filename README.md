@@ -9,4 +9,3 @@ You will need to install my fork of bimpy (https://github.com/Jxhnn/bimpy) :
     - my bimpy fork
     - win32api
     - pyinput
-    - keyboard
