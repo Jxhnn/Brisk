@@ -1,4 +1,7 @@
 # Brisk-Project
+
+THIS PROJECT IS NO LONGER UPDATED
+
 A simple autoclicker in python using ImGUI.
 
 You will need to install my fork of bimpy (https://github.com/Jxhnn/bimpy) :
